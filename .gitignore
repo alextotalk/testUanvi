@@ -14,7 +14,10 @@ dist/
 build/
 *.egg-info/
 .next/
+next-env.d.ts.bak
 out/
+.tsbuildinfo
+*.tsbuildinfo
 
 # Environment
 .env
